@@ -9,7 +9,7 @@ const AppRouter=()=>{
             <Router>
                 <Routes>
                     <Route path={"/Carts"} element={<Carts/>}/>
-                    <Route path={"/ProductList"} element={<ProductList/>}/>
+                    <Route path={"/"} element={<ProductList/>}/>
                     <Route path={"/Product/:id"} element={<ProductDetails/>}/>
                 </Routes>
             </Router>
