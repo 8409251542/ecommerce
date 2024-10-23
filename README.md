@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/product-listing-app.git
+git clone 
 Navigate into the project directory:
 
 bash
